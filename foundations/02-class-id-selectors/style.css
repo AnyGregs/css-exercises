@@ -1,0 +1,27 @@
+.one-five,
+.three {
+    color: black;
+    background-color: rgb(253, 159, 159);
+    font-family: sans-serif;
+}
+
+.one-five {
+    font-size: 20px;
+}
+
+.three {
+    font-size: 32px;
+}
+
+#two {
+    font-size: 44px;
+    color: rgb(17, 0, 255);
+    font-family: sans-serif;
+}
+
+#four {
+    font-weight: bold;
+    background-color:rgb(93, 252, 93) ;
+    font-family: sans-serif;
+    font-size: 28px;
+}
